@@ -1,2 +1,2 @@
-# amzon-stocks
+# amazon-stocks
 Amazon Stocks Analyses
